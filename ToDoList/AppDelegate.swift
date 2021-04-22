@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ToDoList
 //
-//  Created by ESHITA on 27/02/20.
-//  Copyright © 2020 ESHITA. All rights reserved.
+//  Created by ESHITA on 27/09/19.
+//  Copyright © 2019 ESHITA. All rights reserved.
 //
 
 import UIKit
